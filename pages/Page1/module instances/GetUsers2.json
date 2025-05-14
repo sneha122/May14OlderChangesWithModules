@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "6824a445282d9d462eb5c832_90e2065d-9a00-4b79-9090-40c4baf857b0",
+  "id": "Page1_GetUsers2",
+  "moduleUUID": "cc385ab6-8180-4cd9-bac0-e546b4a523a2",
+  "packageUUID": "1ed88c34-0ed1-4084-b037-14b973f7ac2f",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input2": "",
+      "limitValue": "3"
+    },
+    "moduleInputs": {
+      "fejhdycwdg": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "3",
+        "id": "fejhdycwdg",
+        "label": "limitValue",
+        "propertyName": "inputs.limitValue"
+      },
+      "iunwrrxaeq": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "iunwrrxaeq",
+        "label": "input2",
+        "propertyName": "inputs.input2"
+      }
+    },
+    "name": "GetUsers2",
+    "pageId": "Page1"
+  }
+}
